@@ -1,6 +1,2 @@
 # The Complete Blazor Bootcamp - .NET 6 (WASM and Server)
 <p>Updated in June 2022<p>
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781801078863">https://packt.link/free-ebook/9781801078863 </a> </p>
